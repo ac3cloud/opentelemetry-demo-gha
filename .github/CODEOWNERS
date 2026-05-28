@@ -2,4 +2,4 @@
 # This file controls who is tagged for review for any given pull request.
 
 # For anything not explicitly taken by someone else:
-* @minhtrinh06 # Glober Owner
+* @minhtrinh06 @ac3cloud/digital-team "@ac3cloud/Digital Team"
